@@ -46,7 +46,7 @@ TSLA: 40.50%
 
 ## Visual Output
 
-![Efficient Frontier & Monte Carlo Simulation](./example_output.png)
+![Efficient Frontier & Monte Carlo Simulation](./output.png)
 
 Left: Efficient Frontier with optimal Sharpe point (red star)  
 Right: Monte Carlo simulation of 1-year portfolio value
