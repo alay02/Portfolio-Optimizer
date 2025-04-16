@@ -92,4 +92,4 @@ python portfolio_optimizer.py
 
 Built by **Alay Patel**  
 alaypatel02@gmail.com
-[linkedin.com/in/alaypatel](https://linkedin.com/in/alaypatel02)
+[linkedin.com/in/alaypatel02](https://linkedin.com/in/alaypatel02)
