@@ -44,7 +44,7 @@ TSLA: 40.50%
 
 ---
 
-## 📈 Visual Output
+## Visual Output
 
 ![Efficient Frontier & Monte Carlo Simulation](./example_output.png)
 
@@ -66,7 +66,7 @@ Right: Monte Carlo simulation of 1-year portfolio value
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Install dependencies
 ```bash
@@ -80,7 +80,7 @@ python portfolio_optimizer.py
 
 ---
 
-## 💡 Features
+## Features
 
 - Efficient Frontier simulation (5,000 random portfolios)
 - Sharpe-optimal weight calculation
@@ -90,8 +90,8 @@ python portfolio_optimizer.py
 
 ---
 
-## 📬 Contact
+## Contact
 
 Built by **Alay Patel**  
-📧 alay.patel@email.com  
-🔗 [linkedin.com/in/alaypatel](https://linkedin.com/in/alaypatel)
+alaypatel02@gmail.com
+[linkedin.com/in/alaypatel](https://linkedin.com/in/alaypatel)
