@@ -59,10 +59,8 @@ Right: Monte Carlo simulation of 1-year portfolio value
 |------|-------------|
 | `portfolio_optimizer.py` | Main Python script |
 | `README.md` | This project description |
-| `example_output.png` | Visualization of results |
+| `output.png` | Visualization of results |
 | `requirements.txt` | Python dependencies |
-| `optimal_weights.csv` | Saved weights (optional) |
-| `monte_carlo_stats.csv` | Simulation summary (optional) |
 
 ---
 
@@ -94,4 +92,4 @@ python portfolio_optimizer.py
 
 Built by **Alay Patel**  
 alaypatel02@gmail.com
-[linkedin.com/in/alaypatel](https://linkedin.com/in/alaypatel)
+[linkedin.com/in/alaypatel](https://linkedin.com/in/alaypatel02)
