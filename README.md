@@ -1,5 +1,4 @@
-```markdown
-# Portfolio Optimization & Monte Carlo Simulation
+### Portfolio Optimization & Monte Carlo Simulation
 
 This project uses **Modern Portfolio Theory** to construct an optimal stock portfolio by maximizing the **Sharpe Ratio**. It also performs a **Monte Carlo simulation** under a **Geometric Brownian Motion (GBM)** model to forecast future portfolio values and estimate risk over a 1-year horizon.
 
@@ -96,4 +95,3 @@ python portfolio_optimizer.py
 Built by **Alay Patel**  
 📧 alay.patel@email.com  
 🔗 [linkedin.com/in/alaypatel](https://linkedin.com/in/alaypatel)
-```
